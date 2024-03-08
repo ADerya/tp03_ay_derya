@@ -6,5 +6,5 @@ import { ListeProductComponent } from './components/liste-product/liste-product.
 export const routes: Routes = [
     { path: '', component: HomeComponent },
     { path: 'inscription', component: FormulaireComponent },
-    { path: 'liste-product', component: ListeProductComponent }
+    { path: 'catalogue', component: ListeProductComponent }
 ];
